@@ -16,9 +16,9 @@ const Table = () => {
                             <div className="rounded-t bg-white mb-0 px-6 py-6">
                                 <div className="text-center flex justify-between">
                                     <h6 className="text-dark text-xl font-bold">Tabel Data</h6>
-
                                 </div>
                             </div>
+                            
                         </div>
                     </div>
                 </div>
